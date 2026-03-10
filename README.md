@@ -11,9 +11,9 @@
 </p>
 
 
-| Latest Stable Release | Upstream URL |
-| :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/86box-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/86Box/86Box) |
+| Latest Stable Release | Latest Nightly Relase | Upstream URL |
+| :---: | :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/86box-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/pkgforge-dev/86box-AppImage-Enhanced/releases/tag/nightly) | [Click here](https://github.com/86Box/86Box) |
 
 </div>
 
