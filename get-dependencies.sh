@@ -7,8 +7,11 @@ ARCH=$(uname -m)
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
-    libdecor \
-    qt6-base \
+    kvantum       \
+    libdecor      \
+    lxqt-qtplugin \
+    qt6-base      \
+    qt6ct         \
     sdl2
 
 echo "Installing debloated packages..."
