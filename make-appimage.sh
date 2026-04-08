@@ -11,6 +11,7 @@ export ICON=/usr/share/icons/hicolor/256x256/apps/net.86box.86Box.png
 export DESKTOP=/usr/share/applications/net.86box.86Box.desktop
 export STARTUPWMCLASS=net.86box.86Box
 export DEPLOY_QT=1
+export QT_DIR=qt6
 
 # Deploy dependencies
 quick-sharun /usr/bin/86Box
